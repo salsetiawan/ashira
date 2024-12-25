@@ -1,1 +1,14 @@
+Dashboard 1: Amazon Sales Dashboard
+in amazon_sales.ipynb
+More focused on app performance, so that Amazon provide better product recommendations to customers
 
+Dashboard 2: Amazon Sales Trend
+in AmazonSalesDated.ipynb 
+[Date] are generated so that a trendline/line graph can be displayed
+
+Dashbaord 3: Canada Discount Evaluation
+in AmazonCa_discounted.ipynb
+[listPrice] : original price is kept to be compared to [price] after discount
+
+
+Other ipynb files are preintegrated process
