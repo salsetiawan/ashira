@@ -1,0 +1,2 @@
+The datasets `name.basic`, `title.basic`, `title.crew`, `title.episode`, and `title.ratings` were processed through data wrangling and initial visualization. 
+The data was integrated into `series.detail`, resulting in `Movie.csv` as the final consolidated CSV file.
