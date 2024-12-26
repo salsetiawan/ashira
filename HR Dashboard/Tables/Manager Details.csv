@@ -1,0 +1,24 @@
+﻿ManagerID;EmployeeID;ManagerName;ManagerTitle
+1;10134;Brandon R. LeBlanc;Shared Services Manager
+2;10089;Janet King;President & CEO
+3;10134;Brandon R. LeBlanc;Shared Services Manager
+4;10198;Simon Roup;IT Manager - DB
+5;10010;Jennifer Zamora;CIO
+6;10028;Eric Dougall;IT Manager - Support
+7;10288;Peter Monroe;IT Manager - Infra
+9;10000;Board of Directors;Board of Directors
+10;NULL;Alex Sweetwater;NULL
+11;10105;Amy Dunn;Production Manager
+12;10116;Brannon Miller;Production Manager
+13;10108;Brian Champaigne;BI Director
+14;NULL;David Stanley;NULL
+15;10272;Debra Houlihan;Director of Sales
+16;10098;Elijiah Gray;Production Manager
+17;10291;John Smith;Sales Manager
+18;10090;Kelley Spirea;Production Manager
+19;10017;Ketsia Liebig;Production Manager
+20;10158;Kissy Sullivan;Production Manager
+21;10099;Lynn Daneault;Sales Manager
+22;NULL;Michael Albert;NULL
+30;NULL;Michael Albert;NULL
+39;NULL;Webster Butler;NULL

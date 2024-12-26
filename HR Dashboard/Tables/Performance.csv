@@ -1,0 +1,312 @@
+﻿Employee_Name;EmpID;PerfScoreID;PerformanceScore;EngagementSurvey;EmpSatisfaction;SpecialProjectsCount;LastPerformanceReview_Date;DaysLateLast30;Absences
+Adinolfi, Wilson  K;10026;4;Exceeds;460;5;0;17/01/2019;0;1
+Anderson, Linda  ;10002;4;Exceeds;500;5;0;07/01/2019;0;15
+Barbossa, Hector;10012;4;Exceeds;428;4;5;25/02/2019;0;9
+Beak, Kimberly  ;10023;4;Exceeds;440;3;0;14/01/2019;0;16
+Billis, Helen;10003;4;Exceeds;500;3;0;27/02/2019;0;19
+Candie, Calvin;10001;4;Exceeds;500;3;0;22/02/2019;0;14
+Clukey, Elijian;10029;4;Exceeds;410;4;0;28/02/2019;0;5
+Corleone, Vito;10019;4;Exceeds;370;5;0;04/02/2019;0;15
+Dougall, Eric;10028;4;Exceeds;430;5;5;04/01/2019;0;4
+Driver, Elle;10006;4;Exceeds;477;5;0;27/01/2019;0;14
+Foss, Jason;10015;4;Exceeds;500;5;5;07/01/2019;0;15
+Girifalco, Evelyn;10018;4;Exceeds;390;4;0;07/02/2019;0;3
+Gonzalez, Cayo;10031;4;Exceeds;450;4;0;18/02/2019;0;1
+Harrison, Kara;10007;4;Exceeds;476;4;0;15/02/2019;0;5
+Jeannite, Tayana;10009;4;Exceeds;460;4;0;25/02/2019;0;11
+Johnson, George;10034;4;Exceeds;470;4;0;14/02/2018;0;9
+Johnston, Yen;10036;4;Exceeds;430;3;0;11/01/2019;0;1
+Liebig, Ketsia;10017;4;Exceeds;410;3;0;21/01/2019;0;11
+Lindsay, Leonara ;10008;4;Exceeds;464;4;5;25/01/2019;0;14
+Lunquist, Lisa;10035;4;Exceeds;420;4;0;12/02/2019;0;19
+Lynch, Lindsay;10004;4;Exceeds;500;4;0;02/02/2015;0;17
+Monterro, Luisa;10025;4;Exceeds;470;3;0;14/01/2019;0;1
+Ngodup, Shari ;10037;4;Exceeds;400;3;0;13/02/2019;0;12
+Osturnka, Adeel;10021;4;Exceeds;500;3;0;07/02/2019;0;13
+Patronick, Lucas;10005;4;Exceeds;500;5;3;16/08/2015;0;13
+Peters, Lauren;10032;4;Exceeds;420;5;0;10/01/2013;0;12
+Petrowsky, Thelma;10016;4;Exceeds;460;5;7;04/01/2019;0;16
+Rivera, Haley  ;10011;4;Exceeds;436;5;0;11/02/2019;0;16
+Robinson, Elias;10020;4;Exceeds;360;5;0;11/02/2019;0;4
+Smith, Joe;10027;4;Exceeds;430;3;0;28/01/2019;0;4
+Squatrito, Kristen;10030;4;Exceeds;410;4;0;02/03/2015;0;16
+Szabo, Andrew;10024;4;Exceeds;450;5;5;18/02/2019;0;1
+Torrence, Jack;10013;4;Exceeds;410;3;0;04/01/2019;0;6
+Veera, Abdellah ;10014;4;Exceeds;450;5;0;01/02/2016;0;15
+Volk, Colleen;10022;4;Exceeds;430;5;0;01/02/2015;0;18
+Winthrop, Jordan  ;10033;4;Exceeds;500;3;0;19/01/2016;0;7
+Zamora, Jennifer;10010;4;Exceeds;460;5;6;21/02/2019;0;16
+Ait Sidi, Karthikeyan   ;10084;3;Fully Meets;496;3;6;24/02/2016;0;17
+Akinkuolie, Sarah;10196;3;Fully Meets;302;3;0;15/05/2012;0;3
+Alagbe,Trina;10088;3;Fully Meets;484;5;0;03/01/2019;0;15
+Anderson, Carol ;10069;3;Fully Meets;500;4;0;01/02/2016;0;2
+Andreola, Colby;10194;3;Fully Meets;304;3;4;02/01/2019;0;19
+Athwal, Sam;10062;3;Fully Meets;500;4;0;25/02/2019;0;19
+Bachiochi, Linda;10114;3;Fully Meets;446;3;0;25/01/2019;0;4
+Bacong, Alejandro ;10250;3;Fully Meets;500;5;6;18/02/2019;0;16
+Baczenski, Rachael  ;10252;3;Fully Meets;420;4;0;30/01/2016;0;12
+Barbara, Thomas;10242;3;Fully Meets;420;3;0;06/05/2016;0;15
+Barone, Francesco  A;10265;3;Fully Meets;460;4;0;14/02/2019;0;7
+Barton, Nader;10066;3;Fully Meets;500;5;0;02/03/2017;0;1
+Bates, Norman;10061;3;Fully Meets;500;4;0;05/04/2017;0;20
+Beatrice, Courtney ;10055;3;Fully Meets;500;5;0;14/01/2019;0;12
+Becker, Renee;10245;3;Fully Meets;450;4;5;15/01/2015;0;8
+Becker, Scott;10277;3;Fully Meets;420;4;0;11/01/2019;0;13
+Bernstein, Sean;10046;3;Fully Meets;500;3;0;14/01/2019;0;13
+Biden, Lowan  M;10226;3;Fully Meets;420;3;0;10/01/2019;0;2
+Bondwell, Betsy;10267;3;Fully Meets;480;5;0;04/03/2014;0;5
+Booth, Frank;10199;3;Fully Meets;350;5;7;10/01/2016;0;2
+Boutwell, Bonalyn;10081;3;Fully Meets;500;4;3;18/02/2019;0;4
+Bozzi, Charles;10175;3;Fully Meets;339;3;0;20/02/2014;0;14
+Brill, Donna;10177;3;Fully Meets;335;4;0;04/03/2013;0;6
+Brown, Mia;10238;3;Fully Meets;450;2;6;15/01/2019;0;14
+Buccheri, Joseph  ;10184;3;Fully Meets;319;3;0;01/02/2019;0;9
+Bugali, Josephine ;10203;3;Fully Meets;350;5;0;21/01/2019;0;17
+Bunbury, Jessica;10188;3;Fully Meets;314;5;0;10/02/2013;1;19
+Burke, Joelle;10107;3;Fully Meets;451;4;0;21/02/2019;0;3
+Burkett, Benjamin ;10181;3;Fully Meets;325;5;0;14/01/2019;0;15
+Cady, Max ;10150;3;Fully Meets;384;3;5;21/01/2019;0;4
+Carabbio, Judith;10085;3;Fully Meets;496;4;6;30/01/2019;0;3
+Carey, Michael  ;10115;3;Fully Meets;443;3;0;01/02/2019;0;14
+Carr, Claudia  N;10082;3;Fully Meets;500;5;6;18/02/2019;0;7
+Carter, Michelle ;10040;3;Fully Meets;500;5;0;21/01/2019;0;7
+Chace, Beatrice ;10067;3;Fully Meets;500;4;0;12/02/2019;0;11
+Champaigne, Brian;10108;3;Fully Meets;450;5;7;15/01/2019;0;8
+Chan, Lin;10210;3;Fully Meets;330;4;0;19/02/2019;0;11
+Chang, Donovan  E;10154;3;Fully Meets;380;5;0;14/01/2019;0;4
+Chigurh, Anton;10200;3;Fully Meets;300;5;0;19/01/2019;0;17
+Chivukula, Enola;10240;3;Fully Meets;430;4;0;10/03/2015;0;3
+Cierpiszewski, Caroline  ;10168;3;Fully Meets;358;5;0;30/01/2019;0;3
+Clayton, Rick;10220;3;Fully Meets;470;3;6;27/02/2019;0;2
+Cloninger, Jennifer;10275;3;Fully Meets;420;5;0;03/05/2012;0;9
+Close, Phil;10269;3;Fully Meets;420;4;0;04/05/2011;0;6
+Cockel, James;10261;3;Fully Meets;440;5;0;14/01/2019;0;3
+Cornett, Lisa ;10094;3;Fully Meets;473;5;0;14/02/2019;0;6
+Costello, Frank;10193;3;Fully Meets;304;3;6;22/01/2019;0;2
+Crimmings,   Jean;10132;3;Fully Meets;412;5;0;28/01/2019;0;15
+Cross, Noah;10083;3;Fully Meets;500;3;4;02/01/2019;0;5
+Daneault, Lynn;10099;3;Fully Meets;462;4;0;24/01/2019;0;8
+Daniele, Ann  ;10212;3;Fully Meets;310;5;8;12/02/2019;0;19
+Darson, Jene'ya ;10056;3;Fully Meets;500;3;0;25/02/2019;0;1
+Davis, Daniel;10143;3;Fully Meets;396;4;0;27/02/2019;0;6
+DeGweck,  James;10070;3;Fully Meets;500;4;0;02/04/2016;0;14
+Del Bosque, Keyla;10155;3;Fully Meets;379;5;5;25/01/2019;0;8
+Demita, Carla;10100;3;Fully Meets;462;5;0;06/05/2015;0;1
+DeVito, Tommy;10197;3;Fully Meets;301;5;7;23/01/2019;0;15
+Dickinson, Geoff ;10276;3;Fully Meets;430;4;0;19/02/2019;0;1
+Dobrin, Denisa  S;10207;3;Fully Meets;340;5;0;19/02/2019;0;15
+Dolan, Linda;10133;3;Fully Meets;411;4;6;25/02/2019;0;16
+Dunn, Amy  ;10105;3;Fully Meets;452;4;0;15/01/2019;0;4
+Dunne, Amy;10211;3;Fully Meets;290;3;0;21/01/2019;0;6
+Eaton, Marianne;10064;3;Fully Meets;500;3;0;09/04/2017;0;7
+Engdahl, Jean;10247;3;Fully Meets;470;5;0;13/02/2019;0;8
+England, Rex;10235;3;Fully Meets;420;3;0;11/01/2019;0;3
+Faller, Megan ;10263;3;Fully Meets;440;5;0;22/02/2019;0;17
+Fancett, Nicole;10136;3;Fully Meets;400;4;0;07/01/2019;0;7
+Ferguson, Susan;10189;3;Fully Meets;313;3;0;04/02/2016;0;16
+Fidelia,  Libby;10049;3;Fully Meets;500;5;0;29/01/2019;0;19
+Fitzpatrick, Michael  J;10093;3;Fully Meets;476;5;0;05/04/2013;0;20
+Foreman, Tanya;10163;3;Fully Meets;366;3;0;07/01/2012;0;6
+Forrest, Alex;10305;3;Fully Meets;200;5;0;28/01/2019;4;7
+Foster-Baker, Amy;10080;3;Fully Meets;500;3;2;08/02/2019;0;3
+Fraval, Maruk ;10258;3;Fully Meets;430;3;0;27/01/2019;2;7
+Galia, Lisa;10273;3;Fully Meets;470;4;5;01/02/2019;0;1
+Garcia, Raul;10111;3;Fully Meets;450;3;0;18/02/2019;0;5
+Gaul, Barbara;10257;3;Fully Meets;420;4;0;26/02/2019;0;12
+Gentry, Mildred;10159;3;Fully Meets;373;3;0;16/01/2019;0;19
+Gerke, Melisa;10122;3;Fully Meets;424;4;0;29/04/2016;0;2
+Gill, Whitney  ;10142;3;Fully Meets;397;4;0;15/01/2014;0;7
+Givens, Myriam;10255;3;Fully Meets;450;5;0;25/01/2019;0;20
+Goble, Taisha;10246;3;Fully Meets;460;4;4;20/01/2015;0;10
+Goeth, Amon;10228;3;Fully Meets;430;5;7;10/01/2019;0;20
+Gold, Shenice  ;10243;3;Fully Meets;430;5;0;18/02/2019;0;7
+Gonzalez, Maria;10101;3;Fully Meets;461;4;5;28/01/2019;0;11
+Good, Susan;10237;3;Fully Meets;460;3;0;07/02/2019;0;20
+Gordon, David;10051;3;Fully Meets;500;3;0;14/01/2019;0;2
+Gosciminski, Phylicia  ;10218;3;Fully Meets;440;5;0;21/02/2019;0;1
+Goyal, Roxana;10256;3;Fully Meets;410;5;0;15/02/2019;0;3
+Gray, Elijiah  ;10098;3;Fully Meets;463;3;0;04/01/2019;0;2
+Gross, Paula;10059;3;Fully Meets;500;5;0;03/06/2013;0;17
+Gruber, Hans;10234;3;Fully Meets;420;5;5;28/01/2019;0;8
+Guilianno, Mike;10109;3;Fully Meets;450;5;0;01/02/2013;0;20
+Handschiegl, Joanne;10125;3;Fully Meets;420;4;0;22/02/2019;0;13
+Hankard, Earnest;10074;3;Fully Meets;500;3;0;08/01/2019;0;20
+Harrington, Christie ;10097;3;Fully Meets;464;4;0;02/05/2015;0;8
+Heitzman, Anthony;10129;3;Fully Meets;417;4;0;11/02/2019;0;1
+Hendrickson, Trina;10075;3;Fully Meets;500;3;0;30/01/2013;0;15
+Hitchcock, Alfred;10167;3;Fully Meets;360;5;0;30/01/2019;0;9
+Homberger, Adrienne  J;10195;3;Fully Meets;303;5;0;05/03/2012;0;16
+Horton, Jayne;10112;3;Fully Meets;448;5;6;03/01/2019;0;4
+Houlihan, Debra;10272;3;Fully Meets;450;4;0;21/01/2019;0;19
+Howard, Estelle;10182;3;Fully Meets;324;3;4;15/04/2015;0;6
+Hudson, Jane;10248;3;Fully Meets;480;4;0;07/01/2019;0;4
+Hunts, Julissa;10201;3;Fully Meets;300;5;0;18/01/2019;0;4
+Hutter, Rosalie;10214;3;Fully Meets;450;3;0;14/02/2019;0;6
+Huynh, Ming;10160;3;Fully Meets;372;3;0;01/02/2013;0;18
+Ivey, Rose ;10139;3;Fully Meets;399;3;0;14/01/2019;0;14
+Jackson, Maryellen;10227;3;Fully Meets;410;3;0;17/01/2019;0;7
+Jacobi, Hannah  ;10236;3;Fully Meets;430;5;0;22/02/2019;0;7
+Jhaveri, Sneha  ;10060;3;Fully Meets;500;5;0;21/01/2019;0;9
+Johnson, Noelle ;10156;3;Fully Meets;375;3;5;11/02/2019;0;2
+Jung, Judy  ;10138;3;Fully Meets;400;4;0;03/02/2016;0;4
+Kampew, Donysha;10244;3;Fully Meets;450;5;0;30/03/2013;0;2
+Keatts, Kramer ;10192;3;Fully Meets;307;4;0;23/01/2019;0;10
+Khemmich, Bartholemew;10231;3;Fully Meets;430;5;0;22/01/2019;0;13
+King, Janet;10089;3;Fully Meets;483;3;0;17/01/2019;0;10
+Kinsella, Kathleen  ;10166;3;Fully Meets;360;5;0;01/03/2015;0;16
+Kirill, Alexandra  ;10170;3;Fully Meets;349;4;0;30/01/2013;0;6
+Knapp, Bradley  J;10208;3;Fully Meets;310;3;0;06/02/2019;0;3
+Kretschmer, John;10176;3;Fully Meets;338;3;0;21/01/2019;0;17
+Kreuger, Freddy;10165;3;Fully Meets;365;5;0;17/01/2019;0;20
+Lajiri,  Jyoti;10113;3;Fully Meets;446;5;6;07/01/2019;0;7
+Landa, Hans;10092;3;Fully Meets;478;4;0;15/02/2015;0;9
+Langford, Lindsey;10106;3;Fully Meets;452;3;0;20/02/2014;0;20
+Langton, Enrico;10052;3;Fully Meets;500;5;0;04/02/2019;0;13
+LaRotonda, William  ;10038;3;Fully Meets;500;4;4;17/01/2019;0;3
+Latif, Mohammed;10249;3;Fully Meets;490;3;0;20/02/2013;0;20
+Le, Binh;10232;3;Fully Meets;410;5;7;08/01/2019;0;2
+Leach, Dallas;10087;3;Fully Meets;488;3;0;02/07/2017;0;17
+LeBlanc, Brandon  R;10134;3;Fully Meets;410;4;0;28/01/2019;0;20
+Lecter, Hannibal;10251;3;Fully Meets;410;3;0;22/02/2019;0;10
+Leruth, Giovanni;10103;3;Fully Meets;453;3;0;29/01/2019;0;16
+Linares, Marilyn ;10186;3;Fully Meets;318;4;0;02/03/2018;0;16
+Linden, Mathew;10137;3;Fully Meets;400;3;0;18/02/2019;0;7
+Lundy, Susan;10096;3;Fully Meets;465;4;0;10/06/2016;0;15
+Lydon, Allison;10057;3;Fully Meets;500;3;0;23/01/2019;0;6
+MacLennan, Samuel;10191;3;Fully Meets;308;4;0;01/04/2017;0;18
+Mahoney, Lauren  ;10219;3;Fully Meets;460;4;0;26/02/2019;0;14
+Manchester, Robyn;10077;3;Fully Meets;500;3;0;21/01/2019;0;4
+Mancuso, Karen;10073;3;Fully Meets;500;4;0;02/07/2012;0;16
+Mangal, Debbie;10279;3;Fully Meets;410;3;0;22/01/2019;0;11
+Martin, Sandra;10110;3;Fully Meets;450;5;4;14/01/2019;0;14
+Maurice, Shana;10053;3;Fully Meets;500;4;0;10/01/2019;0;8
+Carthy, B'rigit;10076;3;Fully Meets;500;5;0;07/02/2019;0;16
+Mckenna, Sandy;10145;3;Fully Meets;393;3;0;30/01/2019;0;20
+McKinzie, Jac;10202;3;Fully Meets;340;4;0;29/01/2019;0;7
+Meads, Elizabeth;10128;3;Fully Meets;418;4;0;05/02/2016;0;17
+Medeiros, Jennifer;10068;3;Fully Meets;500;4;0;21/01/2019;0;10
+Miller, Brannon;10116;3;Fully Meets;437;3;0;14/01/2019;0;2
+Monkfish, Erasumus;10213;3;Fully Meets;370;3;0;08/01/2019;0;14
+Moran, Patrick;10223;3;Fully Meets;410;4;0;31/01/2019;0;12
+Morway, Tanya;10151;3;Fully Meets;381;3;6;11/02/2019;0;6
+Motlagh,  Dawn;10254;3;Fully Meets;440;4;0;17/01/2019;0;18
+Moumanil, Maliki ;10120;3;Fully Meets;429;5;0;28/01/2019;0;11
+Myers, Michael;10216;3;Fully Meets;410;4;0;22/01/2019;0;13
+Navathe, Kurt;10079;3;Fully Meets;500;3;6;25/02/2019;0;17
+Ndzi, Colombui;10215;3;Fully Meets;430;3;0;02/03/2013;0;19
+Ndzi, Horia;10185;3;Fully Meets;318;3;0;06/03/2016;0;10
+Newman, Richard ;10063;3;Fully Meets;500;5;0;18/02/2019;0;11
+Nguyen, Dheepa;10042;3;Fully Meets;500;5;0;25/01/2019;0;2
+Nguyen, Lei-Ming;10206;3;Fully Meets;360;5;0;02/01/2019;0;4
+Nowlan, Kristie;10104;3;Fully Meets;453;5;0;16/01/2019;0;5
+Oliver, Brooke ;10078;3;Fully Meets;500;3;0;02/07/2013;0;17
+Onque, Jasmine;10121;3;Fully Meets;428;3;0;25/01/2019;0;1
+Ozark, Travis;10041;3;Fully Meets;500;5;0;14/01/2019;0;18
+Panjwani, Nina;10148;3;Fully Meets;389;4;0;04/03/2013;0;7
+Pearson, Randall;10259;3;Fully Meets;470;4;5;16/01/2016;0;19
+Perry, Shakira;10171;3;Fully Meets;345;4;0;13/05/2014;0;5
+Peterson, Ebonee  ;10130;3;Fully Meets;416;5;0;05/03/2015;0;6
+Petingill, Shana  ;10217;3;Fully Meets;430;3;0;14/01/2019;0;14
+Pham, Hong;10050;3;Fully Meets;500;3;0;20/02/2012;0;13
+Pitt, Brad ;10164;3;Fully Meets;366;3;0;25/02/2019;0;15
+Potts, Xana;10124;3;Fully Meets;420;5;0;01/02/2019;0;9
+Power, Morissa;10187;3;Fully Meets;317;4;0;02/04/2018;0;14
+Punjabhi, Louis  ;10225;3;Fully Meets;480;3;0;07/01/2019;0;14
+Purinton, Janine;10262;3;Fully Meets;450;5;0;02/04/2013;0;16
+Quinn, Sean;10131;3;Fully Meets;415;4;0;19/04/2014;0;4
+Rachael, Maggie;10239;3;Fully Meets;440;4;6;06/02/2019;0;10
+Rarrick, Quinn;10152;3;Fully Meets;380;5;0;04/02/2018;0;19
+Ren, Kylo;10140;3;Fully Meets;398;3;0;28/01/2019;0;4
+Rhoads, Thomas;10058;3;Fully Meets;500;4;0;30/03/2015;0;11
+Roberson, May;10230;3;Fully Meets;450;4;0;22/10/2011;0;10
+Robertson, Peter;10224;3;Fully Meets;420;5;0;06/01/2012;0;13
+Robinson, Alain  ;10047;3;Fully Meets;500;3;0;10/01/2015;0;11
+Roby, Lori ;10162;3;Fully Meets;369;5;6;14/02/2019;0;15
+Roehrich, Bianca;10149;3;Fully Meets;388;3;7;13/02/2018;0;12
+Roper, Katie;10086;3;Fully Meets;494;3;5;06/02/2019;0;17
+Rose, Ashley  ;10054;3;Fully Meets;500;4;0;31/01/2019;0;8
+Rossetti, Bruno;10065;3;Fully Meets;500;5;0;02/07/2018;0;4
+Roup,Simon;10198;3;Fully Meets;360;5;7;18/02/2019;0;13
+Ruiz, Ricardo;10222;3;Fully Meets;430;4;6;04/01/2015;0;8
+Saada, Adell;10126;3;Fully Meets;420;3;6;13/02/2019;0;2
+Sadki, Nore  ;10260;3;Fully Meets;460;5;0;05/02/2018;0;7
+Sahoo, Adil;10233;3;Fully Meets;410;3;0;10/01/2019;0;13
+Salter, Jason;10229;3;Fully Meets;420;3;5;20/04/2015;0;2
+Sander, Kamrin;10169;3;Fully Meets;351;3;0;18/02/2019;0;2
+Sewkumar, Nori;10071;3;Fully Meets;500;5;0;06/02/2019;0;14
+Shepard, Anita ;10179;3;Fully Meets;331;3;6;07/01/2019;0;7
+Shields, Seffi;10091;3;Fully Meets;481;4;0;15/02/2019;0;15
+Simard, Kramer;10178;3;Fully Meets;332;3;7;14/01/2019;0;16
+Singh, Nan ;10039;3;Fully Meets;500;3;5;15/01/2019;0;2
+Sloan, Constance;10095;3;Fully Meets;468;4;0;02/04/2015;0;20
+Smith, Leigh Ann;10153;3;Fully Meets;380;4;4;15/08/2013;0;17
+Smith, Sade;10157;3;Fully Meets;373;3;0;24/01/2019;0;16
+Soto, Julia ;10119;3;Fully Meets;430;3;5;08/02/2019;0;19
+Soze, Keyser;10180;3;Fully Meets;327;4;5;14/01/2019;0;13
+Spirea, Kelley;10090;3;Fully Meets;483;5;0;14/02/2019;0;15
+Stanford,Barbara  M;10278;3;Fully Meets;410;4;0;07/02/2019;0;9
+Steans, Tyrone  ;10147;3;Fully Meets;390;5;5;18/01/2019;0;9
+Stoica, Rick;10266;3;Fully Meets;470;3;0;11/01/2019;0;4
+Strong, Caitrin;10241;3;Fully Meets;410;4;0;31/01/2019;0;18
+Sullivan, Kissy ;10158;3;Fully Meets;373;4;0;24/01/2019;0;12
+Sullivan, Timothy;10117;3;Fully Meets;436;5;0;24/01/2019;0;10
+Sutwell, Barbara;10209;3;Fully Meets;340;5;0;31/01/2019;0;13
+Tannen, Biff;10173;3;Fully Meets;340;3;6;02/01/2019;0;14
+Tavares, Desiree  ;10221;3;Fully Meets;450;5;0;15/02/2012;0;11
+Tejeda, Lenora ;10146;3;Fully Meets;393;3;0;18/04/2017;0;3
+Terry, Sharlene ;10161;3;Fully Meets;369;3;0;28/01/2019;0;18
+Theamstern, Sophia;10141;3;Fully Meets;398;4;0;02/03/2016;0;1
+Thibaud, Kenneth;10268;3;Fully Meets;410;4;0;14/07/2010;0;15
+Tippett, Jeanette;10123;3;Fully Meets;421;5;0;14/01/2019;0;4
+Tredinnick, Neville ;10044;3;Fully Meets;500;3;5;15/04/2015;0;11
+True, Edward;10102;3;Fully Meets;460;3;4;12/02/2017;0;9
+Trzeciak, Cybil;10270;3;Fully Meets;440;3;0;05/01/2014;0;5
+Turpin, Jumil;10045;3;Fully Meets;500;4;7;14/01/2019;0;8
+Valentin,Jackie;10205;3;Fully Meets;281;3;0;17/01/2019;0;16
+Vega, Vincent;10144;3;Fully Meets;393;3;0;27/02/2019;0;19
+Villanueva, Noah;10253;3;Fully Meets;450;4;0;18/01/2019;0;11
+Voldemort, Lord;10118;3;Fully Meets;433;3;7;15/02/2017;0;9
+Von Massenbach, Anna;10183;3;Fully Meets;321;3;0;29/01/2019;0;7
+Walker, Roger;10190;3;Fully Meets;311;5;0;12/02/2019;0;4
+Wallace, Courtney  E;10274;3;Fully Meets;450;3;0;02/01/2012;0;5
+Wang, Charlie;10172;3;Fully Meets;342;4;7;04/01/2019;0;17
+Warfield, Sarah;10127;3;Fully Meets;420;4;8;05/02/2019;0;7
+Whittier, Scott;10072;3;Fully Meets;500;5;0;15/05/2014;0;11
+Wilber, Barry;10048;3;Fully Meets;500;3;0;15/02/2015;0;7
+Wilkes, Annie;10204;3;Fully Meets;360;5;0;06/02/2011;0;9
+Williams, Jacquelyn  ;10264;3;Fully Meets;430;4;0;02/06/2014;0;16
+Wolk, Hang  T;10174;3;Fully Meets;340;4;0;21/02/2019;0;14
+Woodson, Jason;10135;3;Fully Meets;407;4;0;28/02/2019;0;13
+Zhou, Julia;10043;3;Fully Meets;500;3;5;01/02/2019;0;11
+Zima, Colleen;10271;3;Fully Meets;450;5;0;30/01/2019;0;2
+Blount, Dianna;10294;2;Needs Improvement;200;3;0;27/02/2019;2;3
+Cole, Spencer;10292;2;Needs Improvement;200;3;0;01/05/2016;5;16
+Corleone, Michael;10282;2;Needs Improvement;413;2;0;14/01/2019;3;3
+DiNocco, Lily ;10284;2;Needs Improvement;388;4;0;18/01/2019;0;6
+Estremera, Miguel;10280;2;Needs Improvement;500;4;0;12/04/2018;5;16
+Evensen, April;10296;2;Needs Improvement;230;3;0;15/01/2017;5;19
+Exantus, Susan;10290;2;Needs Improvement;210;5;4;10/08/2012;4;19
+Gilles, Alex;10283;2;Needs Improvement;397;4;0;20/01/2015;3;15
+Immediato, Walter;10289;2;Needs Improvement;234;2;0;12/04/2012;3;4
+Monroe, Peter;10288;2;Needs Improvement;239;3;6;22/02/2019;4;13
+Owad, Clinton;10281;2;Needs Improvement;425;3;0;04/02/2019;4;6
+Smith, Martin;10286;2;Needs Improvement;354;5;0;06/04/2017;4;15
+Pelletier, Ermine;10297;2;Needs Improvement;240;5;0;06/02/2015;5;2
+Robinson, Cherly;10285;2;Needs Improvement;360;3;0;05/04/2016;4;16
+Saar-Beckles, Melinda;10295;2;Needs Improvement;260;4;0;18/02/2019;5;4
+Smith, John;10291;2;Needs Improvement;240;4;0;16/01/2019;2;16
+Trang, Mei;10287;2;Needs Improvement;244;5;0;11/02/2019;4;18
+Wallace, Theresa;10293;2;Needs Improvement;250;3;0;05/09/2014;6;13
+Dee, Randy;10311;3;Fully Meets;430;4;3;31/01/2019;2;2
+Delarge, Alex;10306;1;PIP;193;3;0;30/01/2019;6;5
+Desimone, Carl ;10310;1;PIP;112;2;0;31/01/2019;4;9
+Dietrich, Jenna  ;10304;1;PIP;230;1;0;29/01/2019;2;17
+Erilus, Angela;10299;1;PIP;300;1;0;25/02/2019;2;5
+Fernandes, Nilson  ;10308;1;PIP;156;5;0;03/01/2019;6;15
+Fett, Boba;10309;1;PIP;120;3;6;04/02/2019;3;2
+Gonzalez, Juan;10300;1;PIP;300;3;0;06/03/2011;3;10
+Miller, Ned;10298;1;PIP;300;2;0;14/01/2013;6;6
+O'hare, Lynn;10303;1;PIP;233;2;0;09/03/2018;6;3
+Sparks, Taylor  ;10302;1;PIP;240;2;1;25/02/2019;6;20
+Stansfield, Norman;10307;1;PIP;181;2;0;17/01/2019;3;5
+Ybarra, Catherine ;10301;1;PIP;320;2;0;02/09/2015;5;4

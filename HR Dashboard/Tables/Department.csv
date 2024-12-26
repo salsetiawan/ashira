@@ -1,0 +1,31 @@
+﻿ID;jobTitle;Department;position_count
+1;Accountant I;Admin Offices;3
+2;Administrative Assistant;Admin Offices;3
+3;Area Sales Manager;Sales;27
+4;BI Developer;IT/IS;4
+5;BI Director;IT/IS;1
+6;CIO;IT/IS;1
+7;Data Architect;IT/IS;1
+8;Database Administrator;IT/IS;5
+9;Data Analyst;IT/IS;8
+10;Director of Operations;Production       ;1
+11;Director of Sales;Sales;1
+12;IT Director;IT/IS;1
+13;IT Manager;IT/IS;4
+14;IT Support;IT/IS;8
+15;Network Engineer;IT/IS;5
+16;President & CEO;Executive Office;1
+17;Production Manager;Production       ;1
+18;Production Manager;Production       ;13
+19;Production Technician I;Production       ;137
+20;Production Technician II;Production       ;57
+21;Sales Manager;Sales;3
+22;Senior BI Developer;IT/IS;3
+23;Shared Services Manager;Admin Offices;1
+24;Software Engineer;Software Engineering;10
+25;Software Engineering Manager;Software Engineering;1
+26;Sr. Accountant;Admin Offices;2
+27;Sr. DBA;IT/IS;2
+28;Sr. Network Engineer;IT/IS;5
+29;Principal Data Architect;IT/IS;1
+30;Enterprise Architect;IT/IS;1

@@ -1,0 +1,312 @@
+﻿Employee_Name;EmpID;Gender;DOB;MarritalStatus;State;Zip;CitizenDesc;HispanicLatino;RaceDesc;Salary;RecruitmentSource
+Adinolfi, Wilson  K;10026;"M ";1983-07-10;Single;MA;1960;US Citizen;0;White;62506;LinkedIn
+"Ait Sidi, Karthikeyan   ";10084;"M ";1975-05-05;Married;MA;2148;US Citizen;0;White;104437;Indeed
+Akinkuolie, Sarah;10196;F;1988-09-19;Married;MA;1810;US Citizen;0;White;64955;LinkedIn
+Alagbe,Trina;10088;F;1988-09-27;Married;MA;1886;US Citizen;0;White;64991;Indeed
+"Anderson, Carol ";10069;F;1989-09-08;Single;MA;2169;US Citizen;0;White;50825;Google Search
+"Anderson, Linda  ";10002;F;1977-05-22;Single;MA;1844;US Citizen;0;White;57568;LinkedIn
+Andreola, Colby;10194;F;1979-05-24;Single;MA;2110;US Citizen;0;White;95660;LinkedIn
+Athwal, Sam;10062;"M ";1983-02-18;Single;MA;2199;US Citizen;0;White;59365;Employee Referral
+Bachiochi, Linda;10114;F;1970-02-11;Single;MA;1902;US Citizen;0;Black or African American;47837;Diversity Job Fair
+"Bacong, Alejandro ";10250;"M ";1988-01-07;Single;MA;1886;US Citizen;0;White;50178;Indeed
+"Baczenski, Rachael  ";10252;F;1974-01-12;Married;MA;1902;US Citizen;1;Black or African American;54670;Diversity Job Fair
+Barbara, Thomas;10242;"M ";1974-02-21;Married;MA;2062;US Citizen;1;Black or African American;47211;Diversity Job Fair
+Barbossa, Hector;10012;"M ";1988-07-04;Single;TX;78230;US Citizen;0;Black or African American;92328;Diversity Job Fair
+Barone, Francesco  A;10265;"M ";1983-07-20;Single;MA;1810;US Citizen;0;Two or more races;58709;Google Search
+Barton, Nader;10066;"M ";1977-07-15;Single;MA;2747;US Citizen;0;White;52505;On-line Web application
+Bates, Norman;10061;"M ";1981-10-18;Single;MA;2050;US Citizen;0;White;57834;Google Search
+"Beak, Kimberly  ";10023;F;1966-04-17;Married;MA;2145;US Citizen;0;White;70131;Employee Referral
+"Beatrice, Courtney ";10055;F;1970-10-27;Single;MA;1915;Eligible NonCitizen;0;White;59026;Google Search
+Becker, Renee;10245;F;1986-04-04;Single;MA;2026;US Citizen;1;White;110000;Google Search
+Becker, Scott;10277;"M ";1979-04-06;Single;MA;2452;US Citizen;0;Asian;53250;LinkedIn
+Bernstein, Sean;10046;"M ";1970-12-22;Single;MA;2072;US Citizen;1;White;51044;Google Search
+Biden, Lowan  M;10226;F;1958-12-27;Single;MA;2027;US Citizen;0;Asian;64919;Indeed
+Billis, Helen;10003;F;1989-09-01;Married;MA;2031;US Citizen;0;White;62910;Indeed
+Blount, Dianna;10294;F;1990-09-21;Single;MA;2171;US Citizen;0;White;66441;CareerBuilder
+Bondwell, Betsy;10267;F;1967-01-16;Single;MA;2210;US Citizen;0;White;57815;Google Search
+Booth, Frank;10199;"M ";1964-07-30;Single;CT;6033;US Citizen;0;Black or African American;103613;LinkedIn
+Boutwell, Bonalyn;10081;F;1987-04-04;Married;MA;2468;US Citizen;0;Black or African American;106367;Diversity Job Fair
+Bozzi, Charles;10175;"M ";1970-03-10;Single;MA;1901;US Citizen;0;Asian;74312;Indeed
+Brill, Donna;10177;F;1990-08-24;Married;MA;1701;US Citizen;0;White;53492;Google Search
+Brown, Mia;10238;F;1987-11-24;Married;MA;1450;US Citizen;0;Black or African American;63000;Diversity Job Fair
+"Buccheri, Joseph  ";10184;"M ";1983-07-28;Single;MA;1013;US Citizen;0;White;65288;Google Search
+"Bugali, Josephine ";10203;F;1969-10-30;Single;MA;2043;US Citizen;0;Black or African American;64375;Diversity Job Fair
+Bunbury, Jessica;10188;F;1964-06-01;Married;VA;21851;Eligible NonCitizen;0;Black or African American;74326;Google Search
+Burke, Joelle;10107;F;1980-03-02;Single;MA;2148;US Citizen;0;Black or African American;63763;Employee Referral
+"Burkett, Benjamin ";10181;"M ";1977-08-19;Married;MA;1890;US Citizen;0;White;62162;Indeed
+"Cady, Max ";10150;"M ";1966-11-22;Single;MA;2184;US Citizen;0;White;77692;Google Search
+Candie, Calvin;10001;"M ";1983-08-09;Single;MA;2169;US Citizen;0;White;72640;Indeed
+Carabbio, Judith;10085;F;1987-04-05;Single;MA;2132;US Citizen;0;White;93396;Indeed
+"Carey, Michael  ";10115;"M ";1983-02-02;Single;MA;1701;US Citizen;0;Black or African American;52846;LinkedIn
+Carr, Claudia  N;10082;F;1986-06-06;Single;MA;1886;US Citizen;0;Black or African American;100031;LinkedIn
+"Carter, Michelle ";10040;F;1963-05-15;Single;VT;5664;US Citizen;0;White;71860;Indeed
+"Chace, Beatrice ";10067;F;1951-01-02;Single;MA;2763;US Citizen;0;White;61656;Google Search
+Champaigne, Brian;10108;"M ";1972-02-09;Married;MA;2045;US Citizen;0;White;110929;Indeed
+Chan, Lin;10210;F;1979-02-12;Single;MA;2170;US Citizen;0;White;54237;Indeed
+Chang, Donovan  E;10154;"M ";1983-08-24;Single;MA;1845;US Citizen;0;White;60380;LinkedIn
+Chigurh, Anton;10200;"M ";1970-06-11;Single;TX;78207;Eligible NonCitizen;0;Black or African American;66808;Employee Referral
+Chivukula, Enola;10240;F;1983-08-27;Single;MA;1775;US Citizen;0;White;64786;Indeed
+"Cierpiszewski, Caroline  ";10168;F;1988-05-31;Single;MA;2044;Non-Citizen;0;Black or African American;64816;Indeed
+Clayton, Rick;10220;"M ";1985-09-05;Single;MA;2170;US Citizen;0;White;68678;Indeed
+Cloninger, Jennifer;10275;F;1981-08-31;Married;MA;1752;US Citizen;0;White;64066;Google Search
+Close, Phil;10269;"M ";1978-11-25;Married;MA;2169;US Citizen;0;White;59369;Indeed
+Clukey, Elijian;10029;"M ";1980-08-26;Married;MA;2134;US Citizen;0;White;50373;Employee Referral
+Cockel, James;10261;"M ";1977-09-08;Single;MA;2452;US Citizen;0;White;63108;Employee Referral
+Cole, Spencer;10292;"M ";1979-08-12;Single;MA;1880;US Citizen;0;Black or African American;59144;LinkedIn
+Corleone, Michael;10282;"M ";1975-12-17;Single;MA;1803;US Citizen;0;White;68051;CareerBuilder
+Corleone, Vito;10019;"M ";1983-03-19;Single;MA;2030;US Citizen;0;Black or African American;170500;Indeed
+"Cornett, Lisa ";10094;F;1977-03-31;Married;MA;2189;US Citizen;1;White;63381;Indeed
+Costello, Frank;10193;"M ";1986-08-26;Married;MA;1810;US Citizen;0;White;83552;Indeed
+Crimmings,   Jean;10132;F;1987-04-10;Single;MA;1821;US Citizen;0;White;56149;LinkedIn
+Cross, Noah;10083;"M ";1965-09-09;Single;CT;6278;US Citizen;0;White;92329;Employee Referral
+Daneault, Lynn;10099;F;1990-04-19;Single;VT;5473;US Citizen;0;White;65729;Indeed
+"Daniele, Ann  ";10212;F;1952-01-18;Married;CT;6033;US Citizen;0;White;85028;LinkedIn
+"Darson, Jene'ya ";10056;F;1978-11-05;Married;MA;2110;US Citizen;0;White;57583;Indeed
+Davis, Daniel;10143;"M ";1979-09-14;Single;MA;2458;Eligible NonCitizen;0;Two or more races;56294;LinkedIn
+Dee, Randy;10311;"M ";1988-04-15;Married;MA;2138;US Citizen;0;White;56991;Indeed
+DeGweck,  James;10070;"M ";1977-10-31;Married;MA;1810;US Citizen;0;White;55722;Indeed
+Del Bosque, Keyla;10155;F;1979-07-05;Single;MA;2176;US Citizen;0;Black or African American;101199;CareerBuilder
+Delarge, Alex;10306;"M ";1975-11-02;Single;AL;36006;US Citizen;0;Two or more races;61568;Indeed
+Demita, Carla;10100;F;1951-02-25;Single;MA;2343;US Citizen;0;Black or African American;58275;Google Search
+"Desimone, Carl ";10310;"M ";1967-04-19;Married;MA;2061;US Citizen;0;White;53189;Indeed
+DeVito, Tommy;10197;"M ";1983-09-04;Single;MA;2045;US Citizen;0;White;96820;Indeed
+"Dickinson, Geoff ";10276;"M ";1982-11-15;Single;MA;2180;US Citizen;0;White;51259;Indeed
+"Dietrich, Jenna  ";10304;F;1987-05-14;Single;WA;98052;US Citizen;1;White;59231;Website
+"DiNocco, Lily ";10284;F;1978-12-02;Married;MA;2351;US Citizen;0;Black or African American;61584;Indeed
+Dobrin, Denisa  S;10207;F;1986-10-07;Single;MA;2125;US Citizen;1;White;46335;CareerBuilder
+Dolan, Linda;10133;F;1988-07-18;Married;MA;2119;US Citizen;0;White;70621;Employee Referral
+Dougall, Eric;10028;"M ";1970-07-09;Single;MA;1886;US Citizen;0;Black or African American;138888;Indeed
+Driver, Elle;10006;F;1988-11-08;Single;CA;90007;US Citizen;0;White;74241;Indeed
+"Dunn, Amy  ";10105;F;1973-11-28;Single;MA;1731;US Citizen;0;White;75188;Google Search
+Dunne, Amy;10211;F;1973-09-23;Married;MA;1749;US Citizen;0;White;62514;Google Search
+Eaton, Marianne;10064;F;1991-09-05;Married;MA;2343;US Citizen;0;White;60070;Google Search
+Engdahl, Jean;10247;"M ";1974-05-31;Single;MA;2026;US Citizen;0;White;48888;LinkedIn
+England, Rex;10235;"M ";1978-08-25;Married;MA;2045;US Citizen;0;White;54285;Employee Referral
+Erilus, Angela;10299;F;1989-08-25;Single;MA;2133;US Citizen;0;White;56847;Indeed
+Estremera, Miguel;10280;"M ";1983-09-02;Single;MA;2129;US Citizen;0;White;60340;Google Search
+Evensen, April;10296;F;1989-05-06;Single;MA;2458;US Citizen;0;White;59124;Google Search
+Exantus, Susan;10290;F;1987-05-15;Married;MA;1749;US Citizen;0;Black or African American;99280;Indeed
+"Faller, Megan ";10263;F;1978-09-22;Married;MA;1824;US Citizen;0;Black or African American;71776;LinkedIn
+Fancett, Nicole;10136;F;1987-09-27;Single;MA;2324;US Citizen;0;Black or African American;65902;LinkedIn
+Ferguson, Susan;10189;F;1955-04-14;Married;MA;2176;US Citizen;0;White;57748;Google Search
+"Fernandes, Nilson  ";10308;"M ";1989-10-18;Married;MA;2132;US Citizen;0;White;64057;Indeed
+Fett, Boba;10309;"M ";1987-06-18;Single;MA;2138;US Citizen;0;White;53366;LinkedIn
+Fidelia,  Libby;10049;F;1981-03-16;Married;MA;2155;US Citizen;0;White;58530;Google Search
+Fitzpatrick, Michael  J;10093;"M ";1981-10-01;Single;MA;2143;US Citizen;1;White;72609;Google Search
+Foreman, Tanya;10163;F;1983-11-08;Married;MA;2170;US Citizen;0;White;55965;Google Search
+Forrest, Alex;10305;"M ";1975-07-07;Married;MA;2330;US Citizen;0;White;70187;Employee Referral
+Foss, Jason;10015;"M ";1980-07-05;Single;MA;1460;US Citizen;0;Black or African American;178000;Indeed
+Foster-Baker, Amy;10080;F;1979-04-16;Married;MA;2050;US Citizen;0;White;99351;Other
+"Fraval, Maruk ";10258;"M ";1963-08-28;Single;CT;6050;US Citizen;0;Black or African American;67251;CareerBuilder
+Galia, Lisa;10273;F;1968-07-06;Single;CT;6040;US Citizen;0;White;65707;LinkedIn
+Garcia, Raul;10111;"M ";1985-09-15;Single;MA;1905;US Citizen;1;White;52249;Employee Referral
+Gaul, Barbara;10257;F;1983-12-02;Single;MA;2121;US Citizen;1;Black or African American;53171;LinkedIn
+Gentry, Mildred;10159;F;1990-10-01;Married;MA;2145;US Citizen;0;Black or African American;51337;LinkedIn
+Gerke, Melisa;10122;F;1970-05-15;Single;MA;2330;US Citizen;0;Black or African American;51505;Diversity Job Fair
+"Gill, Whitney  ";10142;F;1971-07-10;Single;OH;43050;US Citizen;0;Black or African American;59370;CareerBuilder
+Gilles, Alex;10283;"M ";1974-08-09;Married;MA;2062;US Citizen;0;Black or African American;54933;Diversity Job Fair
+Girifalco, Evelyn;10018;F;1980-05-08;Single;MA;2451;US Citizen;1;Two or more races;57815;Indeed
+Givens, Myriam;10255;F;1989-09-22;Single;IN;46204;US Citizen;0;White;61555;Indeed
+Goble, Taisha;10246;F;1971-10-23;Single;MA;2127;US Citizen;0;White;114800;Indeed
+Goeth, Amon;10228;"M ";1989-11-24;Married;MA;2135;US Citizen;1;White;74679;LinkedIn
+"Gold, Shenice  ";10243;F;1992-06-18;Single;MA;2451;US Citizen;1;White;53018;Indeed
+Gonzalez, Cayo;10031;"M ";1969-09-29;Single;MA;2108;US Citizen;0;Black or African American;59892;Diversity Job Fair
+Gonzalez, Juan;10300;"M ";1964-10-12;Married;MA;2128;US Citizen;0;Black or African American;68898;Diversity Job Fair
+Gonzalez, Maria;10101;F;1981-04-16;Single;MA;2472;US Citizen;1;White;61242;Employee Referral
+Good, Susan;10237;F;1986-05-25;Married;MA;1886;US Citizen;0;White;66825;LinkedIn
+Gordon, David;10051;"M ";1979-05-21;Married;MA;2169;US Citizen;0;White;48285;LinkedIn
+"Gosciminski, Phylicia  ";10218;F;1983-12-08;Single;MA;1824;US Citizen;0;American Indian or Alaska Native;66149;Google Search
+Goyal, Roxana;10256;F;1974-10-09;Married;MA;1864;US Citizen;0;Asian;49256;LinkedIn
+"Gray, Elijiah  ";10098;"M ";1981-07-11;Single;MA;1752;US Citizen;0;White;62957;Employee Referral
+Gross, Paula;10059;F;1983-05-21;Single;MA;2176;US Citizen;0;White;63813;CareerBuilder
+Gruber, Hans;10234;"M ";1989-06-30;Married;MA;2134;US Citizen;0;Black or African American;99020;Indeed
+Guilianno, Mike;10109;"M ";1969-02-09;Single;TN;37129;US Citizen;0;Two or more races;71707;LinkedIn
+Handschiegl, Joanne;10125;F;1977-03-23;Married;MA;2127;US Citizen;0;White;54828;Google Search
+Hankard, Earnest;10074;"M ";1988-08-10;Single;MA;2155;US Citizen;1;White;64246;LinkedIn
+"Harrington, Christie ";10097;F;1952-08-18;Single;MA;2324;US Citizen;0;White;52177;CareerBuilder
+Harrison, Kara;10007;F;1974-05-02;Married;MA;1886;US Citizen;0;White;62065;CareerBuilder
+Heitzman, Anthony;10129;"M ";1984-01-04;Single;MA;2149;US Citizen;0;White;46998;Google Search
+Hendrickson, Trina;10075;F;1972-08-27;Single;MA;2021;US Citizen;0;White;68099;CareerBuilder
+Hitchcock, Alfred;10167;"M ";1988-09-14;Married;NH;3062;US Citizen;0;American Indian or Alaska Native;70545;Indeed
+Homberger, Adrienne  J;10195;F;1984-02-16;Married;MA;2445;Non-Citizen;0;White;63478;Indeed
+Horton, Jayne;10112;F;1984-02-21;Single;MA;2493;US Citizen;0;White;97999;Indeed
+Houlihan, Debra;10272;F;1966-03-17;Married;RI;2908;US Citizen;0;White;180000;LinkedIn
+Howard, Estelle;10182;F;1985-09-16;Married;MA;2170;US Citizen;0;Black or African American;49920;Indeed
+Hudson, Jane;10248;F;1986-06-10;Single;MA;2176;US Citizen;0;White;55425;LinkedIn
+Hunts, Julissa;10201;F;1984-03-11;Single;MA;2021;US Citizen;0;White;69340;LinkedIn
+Hutter, Rosalie;10214;F;1992-05-07;Single;MA;2351;US Citizen;0;White;64995;Indeed
+Huynh, Ming;10160;F;1976-09-22;Single;MA;1742;US Citizen;0;White;68182;Google Search
+Immediato, Walter;10289;"M ";1976-11-15;Married;MA;2128;US Citizen;0;Asian;83082;Indeed
+"Ivey, Rose ";10139;F;1991-01-28;Single;MA;1775;US Citizen;0;White;51908;Indeed
+Jackson, Maryellen;10227;F;1972-09-11;Single;MA;2081;US Citizen;0;Black or African American;61242;LinkedIn
+"Jacobi, Hannah  ";10236;F;1966-03-22;Single;MA;1778;US Citizen;0;White;45069;Employee Referral
+Jeannite, Tayana;10009;F;1986-11-06;Single;MA;1821;US Citizen;0;American Indian or Alaska Native;60724;LinkedIn
+"Jhaveri, Sneha  ";10060;F;1964-04-13;Single;MA;2109;US Citizen;0;White;60436;LinkedIn
+Johnson, George;10034;"M ";1959-08-19;Married;MA;2445;US Citizen;0;White;46837;CareerBuilder
+"Johnson, Noelle ";10156;F;1986-11-07;Married;MA;2301;US Citizen;0;Asian;105700;Indeed
+Johnston, Yen;10036;F;1969-09-08;Single;MA;2128;US Citizen;0;White;63322;LinkedIn
+"Jung, Judy  ";10138;F;1986-04-17;Married;MA;2446;US Citizen;0;Black or African American;61154;CareerBuilder
+Kampew, Donysha;10244;F;1989-11-11;Single;PA;19444;US Citizen;0;White;68999;Google Search
+"Keatts, Kramer ";10192;"M ";1976-01-19;Single;MA;1887;US Citizen;0;White;50482;Indeed
+Khemmich, Bartholemew;10231;"M ";1979-11-27;Single;CO;80820;US Citizen;0;White;65310;Indeed
+King, Janet;10089;F;1954-09-21;Married;MA;1902;US Citizen;1;White;250000;Indeed
+"Kinsella, Kathleen  ";10166;F;1973-12-08;Married;MA;2170;US Citizen;0;White;54005;Google Search
+"Kirill, Alexandra  ";10170;F;1970-10-08;Married;MA;2127;US Citizen;0;White;45433;Google Search
+Knapp, Bradley  J;10208;"M ";1977-11-10;Single;MA;1721;US Citizen;0;Black or African American;46654;LinkedIn
+Kretschmer, John;10176;"M ";1980-02-02;Married;MA;1801;US Citizen;0;Asian;63973;Indeed
+Kreuger, Freddy;10165;"M ";1969-02-24;Single;NY;10171;US Citizen;1;Black or African American;71339;Diversity Job Fair
+Lajiri,  Jyoti;10113;"M ";1986-04-23;Married;MA;2169;US Citizen;0;White;93206;Employee Referral
+Landa, Hans;10092;"M ";1972-07-01;Married;MA;1890;US Citizen;0;White;82758;Employee Referral
+Langford, Lindsey;10106;F;1979-07-25;Single;MA;2090;US Citizen;0;Asian;66074;Indeed
+Langton, Enrico;10052;"M ";1986-12-09;Married;MA;2048;US Citizen;0;White;46120;LinkedIn
+"LaRotonda, William  ";10038;"M ";1984-04-26;Single;MA;1460;US Citizen;0;Black or African American;64520;Website
+Latif, Mohammed;10249;"M ";1984-05-09;Married;MA;2126;US Citizen;0;White;61962;Google Search
+Le, Binh;10232;F;1987-06-14;Single;MA;1886;US Citizen;0;Asian;81584;Indeed
+Leach, Dallas;10087;F;1979-01-17;Single;MA;1810;US Citizen;0;Asian;63676;CareerBuilder
+LeBlanc, Brandon  R;10134;"M ";1984-06-10;Married;MA;1460;US Citizen;0;White;93046;CareerBuilder
+Lecter, Hannibal;10251;"M ";1982-09-02;Married;MA;1776;US Citizen;0;Asian;64738;Google Search
+Leruth, Giovanni;10103;"M ";1988-12-27;Single;UT;84111;US Citizen;0;Black or African American;70468;Website
+Liebig, Ketsia;10017;F;1981-10-26;Married;MA;2110;US Citizen;0;White;77915;Website
+"Linares, Marilyn ";10186;F;1981-03-26;Married;MA;1886;US Citizen;0;White;52624;Indeed
+Linden, Mathew;10137;"M ";1979-03-19;Married;MA;1770;US Citizen;0;White;63450;LinkedIn
+"Lindsay, Leonara ";10008;F;1988-10-05;Single;CT;6070;US Citizen;1;Black or African American;51777;Diversity Job Fair
+Lundy, Susan;10096;F;1976-12-26;Single;MA;2122;US Citizen;0;White;67237;LinkedIn
+Lunquist, Lisa;10035;F;1982-03-28;Single;MA;2324;US Citizen;0;Black or African American;73330;Indeed
+Lydon, Allison;10057;F;1975-10-22;Married;MA;2122;US Citizen;0;Black or African American;52057;Website
+Lynch, Lindsay;10004;F;1973-02-14;Single;MA;1844;US Citizen;1;Black or African American;47434;Diversity Job Fair
+MacLennan, Samuel;10191;"M ";1972-11-09;Single;MA;1938;US Citizen;0;White;52788;Indeed
+"Mahoney, Lauren  ";10219;F;1986-07-07;Single;MA;2189;US Citizen;0;White;45395;LinkedIn
+Manchester, Robyn;10077;F;1976-08-25;Married;MA;2324;US Citizen;0;White;62385;LinkedIn
+Mancuso, Karen;10073;F;1986-12-10;Married;MA;2176;US Citizen;0;Two or more races;68407;LinkedIn
+Mangal, Debbie;10279;F;1974-11-07;Married;MA;2451;US Citizen;0;White;61349;LinkedIn
+Martin, Sandra;10110;F;1987-11-07;Single;MA;2135;US Citizen;0;Asian;105688;Google Search
+Maurice, Shana;10053;F;1977-11-22;Married;MA;2330;US Citizen;0;White;54132;Indeed
+Carthy, B'rigit;10076;F;1987-05-21;Single;MA;2149;US Citizen;0;Black or African American;55315;LinkedIn
+Mckenna, Sandy;10145;F;1987-01-07;Married;MA;2184;US Citizen;0;Black or African American;62810;CareerBuilder
+McKinzie, Jac;10202;"M ";1984-07-01;Married;TX;78789;US Citizen;0;Two or more races;63291;Website
+Meads, Elizabeth;10128;F;1968-05-30;Single;MA;1760;US Citizen;0;Black or African American;62659;Diversity Job Fair
+Medeiros, Jennifer;10068;F;1976-09-22;Single;MA;2346;US Citizen;0;White;55688;CareerBuilder
+Miller, Brannon;10116;"M ";1981-08-10;Single;MA;2045;US Citizen;1;Hispanic;83667;Indeed
+Miller, Ned;10298;"M ";1985-06-29;Single;MA;2472;US Citizen;0;White;55800;LinkedIn
+Monkfish, Erasumus;10213;"M ";1992-08-17;Married;MA;1450;US Citizen;0;White;58207;LinkedIn
+Monroe, Peter;10288;"M ";1986-10-05;Married;MA;2134;Eligible NonCitizen;1;Black or African American;157000;Diversity Job Fair
+Monterro, Luisa;10025;F;1970-04-24;Single;MA;2126;US Citizen;0;Black or African American;72460;Indeed
+Moran, Patrick;10223;"M ";1976-12-03;Single;MA;2127;US Citizen;0;Black or African American;72106;Diversity Job Fair
+Morway, Tanya;10151;F;1979-04-04;Married;MA;2048;US Citizen;0;White;52599;CareerBuilder
+Motlagh,  Dawn;10254;F;1984-07-07;Single;MA;2453;US Citizen;0;White;63430;LinkedIn
+"Moumanil, Maliki ";10120;"M ";1974-12-01;Single;MA;1460;US Citizen;0;Black or African American;74417;LinkedIn
+Myers, Michael;10216;"M ";1980-04-18;Single;MA;1550;US Citizen;0;Asian;57575;LinkedIn
+Navathe, Kurt;10079;"M ";1970-04-25;Single;MA;2056;US Citizen;0;Asian;87921;Indeed
+Ndzi, Colombui;10215;"M ";1989-05-02;Single;MA;2110;US Citizen;0;Black or African American;50470;Diversity Job Fair
+Ndzi, Horia;10185;"M ";1983-03-28;Married;MA;2421;US Citizen;0;White;46664;Employee Referral
+"Newman, Richard ";10063;"M ";1977-04-08;Married;MA;2136;US Citizen;0;White;48495;LinkedIn
+"Ngodup, Shari ";10037;F;1967-06-03;Single;MA;1810;US Citizen;0;Black or African American;52984;Diversity Job Fair
+Nguyen, Dheepa;10042;F;1989-03-31;Single;GA;30428;US Citizen;0;Two or more races;63695;Indeed
+Nguyen, Lei-Ming;10206;F;1984-07-07;Single;MA;2132;US Citizen;0;White;62061;LinkedIn
+Nowlan, Kristie;10104;F;1985-11-23;Single;MA;1040;US Citizen;0;White;66738;Indeed
+O'hare, Lynn;10303;F;1980-09-30;Single;MA;2152;US Citizen;0;Two or more races;52674;LinkedIn
+"Oliver, Brooke ";10078;F;1952-02-11;Married;MA;2492;US Citizen;0;Asian;71966;LinkedIn
+Onque, Jasmine;10121;F;1990-05-11;Single;FL;33174;US Citizen;1;White;63051;Indeed
+Osturnka, Adeel;10021;"M ";1976-12-11;Married;MA;2478;US Citizen;0;White;47414;LinkedIn
+Owad, Clinton;10281;"M ";1979-11-24;Single;MA;1760;US Citizen;0;Black or African American;53060;LinkedIn
+Ozark, Travis;10041;"M ";1982-05-19;Single;NC;27229;US Citizen;0;White;68829;Website
+Panjwani, Nina;10148;F;1979-05-01;Married;MA;2351;US Citizen;0;White;63515;Google Search
+Patronick, Lucas;10005;"M ";1979-02-20;Single;MA;1844;US Citizen;0;Black or African American;108987;Diversity Job Fair
+Pearson, Randall;10259;"M ";1984-09-05;Married;MA;2747;US Citizen;0;White;93093;Employee Referral
+Smith, Martin;10286;"M ";1988-03-17;Single;MA;2458;US Citizen;0;Black or African American;53564;Google Search
+Pelletier, Ermine;10297;F;1989-07-18;Married;MA;2472;US Citizen;0;Asian;60270;CareerBuilder
+Perry, Shakira;10171;F;1986-07-20;Single;MA;2176;US Citizen;0;White;45998;LinkedIn
+Peters, Lauren;10032;F;1986-08-17;Married;MA;1886;US Citizen;0;White;57954;Indeed
+"Peterson, Ebonee  ";10130;F;1977-05-09;Married;MA;2030;US Citizen;0;White;74669;Indeed
+"Petingill, Shana  ";10217;F;1979-03-10;Married;MA;2050;Eligible NonCitizen;0;Asian;74226;LinkedIn
+Petrowsky, Thelma;10016;F;1984-09-16;Married;MA;1886;US Citizen;0;Black or African American;93554;Employee Referral
+Pham, Hong;10050;"M ";1988-03-06;Married;MA;2451;US Citizen;0;Asian;64724;Google Search
+"Pitt, Brad ";10164;"M ";1981-11-23;Single;MA;2451;US Citizen;0;White;47001;Google Search
+Potts, Xana;10124;F;1988-08-29;Married;KY;40220;US Citizen;0;Black or African American;61844;Website
+Power, Morissa;10187;F;1984-10-15;Single;MA;1742;Eligible NonCitizen;0;Asian;46799;Google Search
+"Punjabhi, Louis  ";10225;"M ";1961-06-19;Single;MA;2109;US Citizen;0;White;59472;Employee Referral
+Purinton, Janine;10262;F;1970-09-22;Single;MA;2474;US Citizen;0;White;46430;Indeed
+Quinn, Sean;10131;"M ";1984-11-06;Married;MA;2045;Eligible NonCitizen;0;Black or African American;83363;Diversity Job Fair
+Rachael, Maggie;10239;F;1980-05-12;Married;MA;2110;US Citizen;0;Black or African American;95920;Indeed
+Rarrick, Quinn;10152;"M ";1984-12-31;Single;MA;2478;US Citizen;0;White;61729;Indeed
+Ren, Kylo;10140;"M ";1954-10-12;Married;ID;83706;US Citizen;0;White;61809;CareerBuilder
+Rhoads, Thomas;10058;"M ";1982-07-22;Single;MA;2176;US Citizen;1;White;45115;LinkedIn
+"Rivera, Haley  ";10011;F;1973-01-12;Married;MA;2171;US Citizen;0;Asian;46738;Google Search
+Roberson, May;10230;F;1981-09-05;Single;MA;1902;Eligible NonCitizen;0;Black or African American;64971;Google Search
+Robertson, Peter;10224;"M ";1972-07-03;Married;MA;2138;US Citizen;0;White;55578;Indeed
+"Robinson, Alain  ";10047;"M ";1974-01-07;Married;MA;1420;US Citizen;0;Black or African American;50428;Indeed
+Robinson, Cherly;10285;F;1985-01-07;Married;MA;1460;US Citizen;0;White;61422;Indeed
+Robinson, Elias;10020;"M ";1985-01-28;Single;MA;1730;US Citizen;0;White;63353;Employee Referral
+"Roby, Lori ";10162;F;1981-10-11;Married;MA;1886;US Citizen;0;White;89883;Employee Referral
+Roehrich, Bianca;10149;F;1973-05-27;Single;MA;2703;US Citizen;1;White;120000;LinkedIn
+Roper, Katie;10086;F;1972-11-21;Single;MA;2056;US Citizen;0;Black or African American;150290;Indeed
+"Rose, Ashley  ";10054;F;1974-12-05;Single;MA;1886;US Citizen;0;White;60627;Website
+Rossetti, Bruno;10065;"M ";1987-03-18;Single;MA;2155;US Citizen;0;White;53180;Google Search
+Roup,Simon;10198;"M ";1973-04-05;Single;MA;2481;US Citizen;0;White;140920;Indeed
+Ruiz, Ricardo;10222;"M ";1964-01-04;Single;MA;1915;US Citizen;0;Black or African American;148999;Diversity Job Fair
+Saada, Adell;10126;F;1986-07-24;Married;MA;2132;US Citizen;0;White;86214;Indeed
+Saar-Beckles, Melinda;10295;F;1968-06-06;Single;MA;1801;US Citizen;0;Black or African American;47750;Diversity Job Fair
+"Sadki, Nore  ";10260;"M ";1974-12-21;Single;MA;2148;US Citizen;0;White;46428;Google Search
+Sahoo, Adil;10233;"M ";1986-04-26;Married;MA;2062;US Citizen;0;White;57975;CareerBuilder
+Salter, Jason;10229;"M ";1987-12-17;Single;MA;2452;US Citizen;0;Black or African American;88527;LinkedIn
+Sander, Kamrin;10169;F;1988-07-10;Married;MA;2154;US Citizen;0;Black or African American;56147;LinkedIn
+Sewkumar, Nori;10071;F;1975-03-10;Single;MA;2191;US Citizen;0;Asian;50923;Google Search
+"Shepard, Anita ";10179;F;1981-04-14;Married;MA;1773;US Citizen;0;White;50750;LinkedIn
+Shields, Seffi;10091;F;1985-08-24;Married;MA;2149;US Citizen;0;White;52087;LinkedIn
+Simard, Kramer;10178;"M ";1970-02-08;Married;MA;2110;US Citizen;1;White;87826;Employee Referral
+"Singh, Nan ";10039;F;1988-05-19;Single;MA;2330;US Citizen;0;White;51920;Website
+Sloan, Constance;10095;F;1987-11-25;Single;MA;1851;US Citizen;0;White;63878;CareerBuilder
+Smith, Joe;10027;"M ";1963-10-30;Single;MA;2045;US Citizen;0;White;60656;Indeed
+Smith, John;10291;"M ";1984-08-16;Single;MA;1886;US Citizen;0;Black or African American;72992;Diversity Job Fair
+Smith, Leigh Ann;10153;F;1987-06-14;Married;MA;1844;US Citizen;0;Black or African American;55000;Diversity Job Fair
+Smith, Sade;10157;F;1965-02-02;Single;MA;2130;US Citizen;0;White;58939;Employee Referral
+"Soto, Julia ";10119;F;1973-03-12;Married;MA;2360;US Citizen;0;Black or African American;66593;LinkedIn
+Soze, Keyser;10180;"M ";1983-02-09;Married;MA;1545;US Citizen;0;Asian;87565;LinkedIn
+"Sparks, Taylor  ";10302;F;1968-07-20;Married;MA;2093;US Citizen;0;White;64021;Indeed
+Spirea, Kelley;10090;F;1975-09-30;Married;MA;2451;US Citizen;0;White;65714;LinkedIn
+Squatrito, Kristen;10030;F;1973-03-26;Single;MA;2359;US Citizen;0;White;62425;LinkedIn
+Stanford,Barbara  M;10278;F;1982-08-25;Single;MA;2050;US Citizen;0;Two or more races;47961;Google Search
+Stansfield, Norman;10307;"M ";1974-05-09;Married;NV;89139;US Citizen;0;White;58273;Website
+"Steans, Tyrone  ";10147;"M ";1986-09-01;Single;MA;2703;US Citizen;0;White;63003;Indeed
+Stoica, Rick;10266;"M ";1985-03-14;Married;MA;2301;US Citizen;0;Asian;61355;LinkedIn
+Strong, Caitrin;10241;F;1989-05-12;Married;MT;59102;US Citizen;0;Black or African American;60120;Indeed
+"Sullivan, Kissy ";10158;F;1978-03-28;Married;MA;1776;US Citizen;0;Black or African American;63682;Indeed
+Sullivan, Timothy;10117;"M ";1982-10-07;Married;MA;2747;US Citizen;1;White;63025;Google Search
+Sutwell, Barbara;10209;F;1968-08-15;Single;MA;2718;Eligible NonCitizen;0;Asian;59238;Indeed
+Szabo, Andrew;10024;"M ";1983-05-06;Single;MA;2140;US Citizen;0;White;92989;LinkedIn
+Tannen, Biff;10173;"M ";1987-10-24;Married;MA;2134;US Citizen;0;White;90100;Indeed
+"Tavares, Desiree  ";10221;F;1975-04-03;Married;MA;1801;Non-Citizen;0;Black or African American;60754;Diversity Job Fair
+"Tejeda, Lenora ";10146;F;1953-05-24;Married;MA;2129;US Citizen;0;White;72202;Google Search
+"Terry, Sharlene ";10161;F;1965-05-07;Single;OR;97756;US Citizen;0;Black or African American;58370;Indeed
+Theamstern, Sophia;10141;F;1965-05-09;Single;MA;2066;US Citizen;0;White;48413;Indeed
+Thibaud, Kenneth;10268;"M ";1975-09-16;Single;MA;2472;US Citizen;0;White;67176;Other
+Tippett, Jeanette;10123;F;1967-06-05;Single;MA;2093;US Citizen;0;Black or African American;56339;Indeed
+Torrence, Jack;10013;"M ";1968-01-15;Single;ND;58782;US Citizen;0;White;64397;Indeed
+Trang, Mei;10287;F;1983-05-16;Single;MA;2021;US Citizen;0;White;63025;LinkedIn
+"Tredinnick, Neville ";10044;"M ";1988-05-05;Married;MA;1420;US Citizen;0;White;75281;CareerBuilder
+True, Edward;10102;"M ";1983-06-14;Single;MA;2451;Non-Citizen;0;Black or African American;100416;Diversity Job Fair
+Trzeciak, Cybil;10270;F;1985-03-15;Single;MA;1778;US Citizen;0;White;74813;LinkedIn
+Turpin, Jumil;10045;"M ";1969-03-31;Married;MA;2343;Eligible NonCitizen;0;White;76029;Employee Referral
+Valentin,Jackie;10205;F;1991-05-23;Married;AZ;85006;US Citizen;0;Two or more races;57859;Indeed
+"Veera, Abdellah ";10014;"M ";1987-01-31;Single;MA;2171;US Citizen;0;White;58523;LinkedIn
+Vega, Vincent;10144;"M ";1968-10-10;Single;MA;2169;US Citizen;0;White;88976;Employee Referral
+Villanueva, Noah;10253;"M ";1989-07-11;Single;ME;4063;US Citizen;0;Asian;55875;Website
+Voldemort, Lord;10118;"M ";1986-08-07;Married;MA;1960;US Citizen;0;Black or African American;113999;Employee Referral
+Volk, Colleen;10022;F;1986-06-03;Married;MA;2747;US Citizen;0;White;49773;Google Search
+Von Massenbach, Anna;10183;F;1985-04-06;Single;MA;2124;US Citizen;0;White;62068;LinkedIn
+Walker, Roger;10190;"M ";1976-02-10;Single;MA;2459;US Citizen;0;Black or African American;66541;Employee Referral
+Wallace, Courtney  E;10274;F;1955-11-14;Married;MA;2478;US Citizen;0;Black or African American;80512;Diversity Job Fair
+Wallace, Theresa;10293;F;1980-08-02;Single;MA;1887;US Citizen;0;White;50274;CareerBuilder
+Wang, Charlie;10172;"M ";1981-07-08;Single;MA;1887;US Citizen;0;Asian;84903;Indeed
+Warfield, Sarah;10127;F;1978-05-02;Single;MA;2453;US Citizen;0;Asian;107226;Employee Referral
+Whittier, Scott;10072;"M ";1987-05-24;Single;MA;2030;US Citizen;1;White;58371;LinkedIn
+Wilber, Barry;10048;"M ";1965-09-09;Married;MA;2324;Eligible NonCitizen;0;White;55140;Website
+Wilkes, Annie;10204;F;1983-07-30;Single;MA;1876;US Citizen;0;White;58062;Google Search
+"Williams, Jacquelyn  ";10264;F;1969-10-02;Single;MA;2109;US Citizen;1;Black or African American;59728;Diversity Job Fair
+"Winthrop, Jordan  ";10033;"M ";1958-11-07;Single;MA;2045;US Citizen;0;White;70507;LinkedIn
+Wolk, Hang  T;10174;F;1985-04-20;Single;MA;2302;US Citizen;0;White;60446;LinkedIn
+Woodson, Jason;10135;"M ";1985-05-11;Single;MA;1810;US Citizen;0;White;65893;LinkedIn
+"Ybarra, Catherine ";10301;F;1982-05-04;Single;MA;2458;US Citizen;0;Asian;48513;Google Search
+Zamora, Jennifer;10010;F;1979-08-30;Single;MA;2067;US Citizen;0;White;220450;Employee Referral
+Zhou, Julia;10043;F;1979-02-24;Single;MA;2148;US Citizen;0;White;89292;Employee Referral
+Zima, Colleen;10271;F;1978-08-17;Single;MA;1730;US Citizen;0;Asian;45046;LinkedIn
