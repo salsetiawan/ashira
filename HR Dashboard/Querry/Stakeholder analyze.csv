@@ -1,0 +1,55 @@
+﻿Manager title assumptions;ManagerID;positionID;ManagerName;staff;freq;gelar;
+IT;10;-;Alex Sweetwater;Software Engineer;9;NULL;
+Production I;11;;Amy Dunn;Production Technician I;15;Production Manager;
+;11;;Amy Dunn;Production Technician II;6;Production Manager;
+BOD;9;;Board of Directors;President & CEO;1;NULL;
+;9;;Board of Directors;Sr. Accountant;1;NULL;
+Accountant & Administrative;1;;Brandon R. LeBlanc;Accountant I;3;NULL;Shared Services Manager
+;1;;Brandon R. LeBlanc;Administrative Assistant;3;NULL;
+;3;;Brandon R. LeBlanc;Sr. Accountant;1;NULL;
+Production II;12;;Brannon Miller;Production Technician I;16;Production Manager;
+;12;;Brannon Miller;Production Technician II;6;Production Manager;
+Data;13;;Brian Champaigne;BI Developer;4;BI Director;
+;13;;Brian Champaigne;Data Architect;1;BI Director;
+;13;;Brian Champaigne;Senior BI Developer;3;BI Director;
+Production III;14;-;David Stanley;Production Technician I;15;NULL;Production Manager
+;14;;David Stanley;Production Technician II;6;NULL;
+Sales;15;;Debra Houlihan;Sales Manager;3;Director of Sales;
+Production IV;16;;Elijiah Gray;Production Technician I;15;Production Manager;
+;16;;Elijiah Gray;Production Technician II;7;Production Manager;
+IT;6;;Eric Dougall;IT Support;4;IT Manager - Support;
+President/CEO;2;;Janet King;CIO;1;President & CEO;
+;2;;Janet King;Director of Operations;1;President & CEO;
+;2;;Janet King;Director of Sales;1;President & CEO;
+;2;;Janet King;Production Manager;14;President & CEO;
+;2;;Janet King;Shared Services Manager;1;President & CEO;
+;2;;Janet King;Software Engineer;1;President & CEO;
+Data;5;;Jennifer Zamora;BI Director;1;CIO;
+;5;;Jennifer Zamora;IT Director;1;CIO;
+;5;;Jennifer Zamora;IT Manager - DB;2;CIO;
+;5;;Jennifer Zamora;IT Manager - Infra;1;CIO;
+;5;;Jennifer Zamora;IT Manager - Support;1;CIO;
+;5;;Jennifer Zamora;Software Engineering Manager;1;CIO;
+Sales Area;17;;John Smith;Area Sales Manager;14;Sales Manager;
+Production V;18;;Kelley Spirea;Production Technician I;15;Production Manager;
+;18;;Kelley Spirea;Production Technician II;7;Production Manager;
+;19;;Ketsia Liebig;Production Technician I;15;Production Manager;
+;19;;Ketsia Liebig;Production Technician II;6;Production Manager;
+Production;20;;Kissy Sullivan;Production Technician I;15;Production Manager;
+;20;;Kissy Sullivan;Production Technician II;7;Production Manager;
+Sales Area;21;;Lynn Daneault;Area Sales Manager;13;Sales Manager;
+Production;22;;Michael Albert;Production Technician I;16;NULL;Production Manager
+;22;;Michael Albert;Production Technician II;5;NULL;
+;30;;Michael Albert;Production Technician II;1;NULL;
+IT/Network;7;;Peter Monroe;IT Support;4;IT Manager - Infra;
+;7;;Peter Monroe;Network Engineer;5;IT Manager - Infra;
+;7;;Peter Monroe;Sr. Network Engineer;5;IT Manager - Infra;
+Data;4;;Simon Roup;Data Analyst;8;NULL;IT Manager - DB
+;4;;Simon Roup;Database Administrator;5;NULL;
+;4;;Simon Roup;Enterprise Architect;1;NULL;
+;4;;Simon Roup;Principal Data Architect;1;NULL;
+;4;;Simon Roup;Sr. DBA;2;NULL;
+Production;NULL;-;Webster Butler;Production Technician I;4;NULL;Production Manager
+;NULL;;Webster Butler;Production Technician II;4;NULL;
+;39;;Webster Butler;Production Technician I;11;NULL;
+;39;;Webster Butler;Production Technician II;2;NULL;
